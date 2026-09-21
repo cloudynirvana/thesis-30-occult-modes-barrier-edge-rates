@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+message: "If you cite this computational research thesis, please use the metadata below. No DOI is minted here; do not invent one."
+type: thesis
+title: "Occult hybrid mode switches and barrier-augmented metastatic edge-rate identifiability"
+authors:
+  - family-names: Ogbonna
+    given-names: Kelechi Emeka
+    email: kelechiogbonna300@gmail.com
+    alias: cloudynirvana
+abstract: >-
+  When occult hybrid mode switches and edge-wise desmoplastic conductances
+  coexist on one anatomical graph toy, which metastatic edge rates stay
+  practically identifiable from site-plus-barrier schedules that only see a
+  mode-blind or mode-partial map? On a three-node, two-edge toy, site burdens
+  alone leave all six log-parameters at structural rank 4, and every shedding
+  rate has an unbounded marginal variance. A duration-weighted stall on each
+  edge restores local practical rank 6. The shedding-limited active rate has
+  both neighbouring coarse-grid profile samples outside a chi-squared cut on
+  that blind schedule. The transport-limited active rate keeps multipliers
+  0.78 through 1.40 inside the cut until its own stall is recorded in both
+  modes, which shortens the inside set to 0.86 through 1.16. A continuous-flow
+  alias of the blind record is practical rank 4 of 4 and coincides with
+  neither hybrid shedding rate. No number is taken from the results files of
+  Thesis #20 or Thesis #21. Not a medical device. No document DOI.
+keywords:
+  - hybrid modes
+  - desmoplastic conductance
+  - metastatic edge rate
+  - practical identifiability
+  - profile likelihood
+  - mode-blind schedule
+  - anatomical graph
+  - research-only
+license: MIT
+date-released: "2026-09-21"
+url: "https://github.com/cloudynirvana/thesis-30-occult-modes-barrier-edge-rates"
+repository-code: "https://github.com/cloudynirvana/thesis-30-occult-modes-barrier-edge-rates"
+preferred-citation:
+  type: thesis
+  title: "Occult hybrid mode switches and barrier-augmented metastatic edge-rate identifiability"
+  authors:
+    - family-names: Ogbonna
+      given-names: Kelechi Emeka
+  year: 2026
+  month: 9
+  url: "https://github.com/cloudynirvana/thesis-30-occult-modes-barrier-edge-rates"
+  notes: "Thesis #30. Depends on Thesis #20 and Thesis #21. Computational research. Joint hybrid-and-barrier toy, not a clinical result. No document DOI."
